@@ -1,4 +1,3 @@
-lifefloat.github.io
+lightfloat.github.io
 ===================
 
-life float landing page during design phase
